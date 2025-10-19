@@ -1659,7 +1659,7 @@ div.carousel>div.card {
     line-height: 150%;
 }
 
-@media (max-width: 1520px) {
+@media (max-width: 1600px) {
 
     .main {
         padding-left: 150px;
@@ -1756,7 +1756,7 @@ div.carousel>div.card {
     }
 
     .end-container2 {
-        padding-bottom: 20px;
+        padding-bottom: 100px;
     }
 
     .end-hand {
@@ -2848,7 +2848,7 @@ div.carousel>div.card {
     }
 }
 
-@media (max-width: 1520px) {
+@media (max-width: 1600px) {
     :root {
         --section-pad-x: 150px;
     }
