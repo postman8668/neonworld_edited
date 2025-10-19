@@ -1,0 +1,85 @@
+@media (max-width: 400px) {
+    .header-container {
+    grid-template: "a c" auto
+                   "b b" auto / 1fr 1fr;
+    }
+    div.images {
+        grid-template-columns: 1fr 1fr;
+    }
+    .photo {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    }
+    .header-nav {
+    gap: 10px;
+    }
+    .header-contacts {
+        gap: 10px;
+    }
+    .main-name {
+        font-size: 50px;
+        text-align: center;
+    }
+    .vyvseki {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .vyveski-word-1 {
+        font-size: 66px;
+    }
+    .main {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .num {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .num-description {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .vyveski {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .panno {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .hit {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .hit-container1 {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .hit-container2 {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .klientam {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .klientam-container1 {
+        padding: 0px 0px;
+    }
+    .klientam-container2 {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .klientam-container3 {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .end-container1 {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .end-hand {
+        width: 625px;
+    }
+}

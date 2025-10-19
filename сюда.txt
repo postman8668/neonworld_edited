@@ -1,0 +1,75 @@
+@media (max-width: 1500px) {
+    .main {
+        padding-left: 150px;
+        padding-right: 150px;
+    }
+
+    .num {
+        padding-left: 150px;
+        padding-right: 150px;
+    }
+
+    .num-description {
+        padding-left: 150px;
+        padding-right: 150px;
+    }
+
+    .vyveski {
+        padding-left: 150px;
+        padding-right: 150px;
+    }
+
+    .panno {
+        padding-left: 150px;
+        padding-right: 150px;
+    }
+
+    .hit {
+        padding-left: 150px;
+        padding-right: 150px;
+    }
+
+    .hit-container1 {
+        padding-left: 150px;
+        padding-right: 150px;
+    }
+
+    .hit-container2 {
+        padding-left: 150px;
+        padding-right: 150px;
+    }
+
+    .klientam {
+        padding-left: 150px;
+        padding-right: 150px;
+    }
+
+    .klientam-container1 {
+        padding: 0px 275px;
+    }
+
+    .klientam-container2 {
+        padding-left: 150px;
+        padding-right: 150px;
+    }
+
+    .klientam-container3 {
+        padding-left: 150px;
+        padding-right: 150px;
+    }
+
+    .end-container1 {
+        padding-left: 150px;
+        padding-right: 150px;
+    }
+
+    .end-hand {
+        width: 625px;
+    }
+
+    .photo {
+        width: 100%;
+        object-fit: cover;
+        height: 350px;
+    }
+}

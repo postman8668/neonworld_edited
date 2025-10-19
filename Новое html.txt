@@ -1,0 +1,26 @@
+<div class="new">
+        <div class="new-word">НОВЫЙ ВЗГЛЯД НА НЕОН
+        </div>
+    </div>
+
+    <div class="new-container">
+        <img src="img/new-main.png" alt="">
+        <img class="new1" src="img/new1.png" alt="">
+        <div class="new-panel1">
+            <div class="new-panel1-style">
+                <div class="new-panel1-text">
+                    <span class="new-panel1-text-1">Использование<br></span>
+                    <span class="new-panel1-text-2">гибкого неона</span>
+                </div>
+            </div>
+        </div>
+        <img class="new2" src="img/new2.png" alt="">
+        <div class="new-panel2">
+            <div class="new-panel2-style">
+                <div class="new-panel2-text">
+                    <span class="new-panel2-text-1">Панель из<br></span><span class="new-panel2-text-2">натурального
+                        мха</span>
+                </div>
+            </div>
+        </div>
+    </div>
